@@ -13,7 +13,11 @@ Entregas das atividade da disciplina de Projetos e Processos de TI
       href="https://docs.google.com/document/d/141jLlueFPIR9iUevlL2rOLJVXWFTisGO/edit" target="_blank"> Kick-off do Projeto
       </a>    
     </p>  
-    
+    <p>
+      <a 
+      href="https://docs.google.com/document/d/1Xpi6UdJyEkigSsSTTSt8VPZySLHihSzn/edit" target="_blank"> Inicio de Projeto
+      </a>    
+    </p>      
   </body>
 </html>
 
